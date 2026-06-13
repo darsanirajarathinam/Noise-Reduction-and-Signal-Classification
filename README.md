@@ -1,4 +1,3 @@
-# Noise-Reduction-and-Signal-Classification
 # Noise Reduction and Signal Classification using Machine Learning
 
 ## Overview
